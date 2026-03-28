@@ -6,7 +6,7 @@ public:
             int low = i+1;
             int high = n-1;
             while(low<=high){
-                int mid = low + (high-low)/2;
+                int mid =  (high+low)/2;
                 int sum = numbers[i] + numbers[mid];
                 if(sum == target){
                     return {i+1,mid+1};
