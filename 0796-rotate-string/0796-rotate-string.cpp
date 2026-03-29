@@ -11,7 +11,7 @@ public:
                     break;
                 }
             }
-            if (match == true) return true;
+            if (match) return true;
         }
         return false;
     }
