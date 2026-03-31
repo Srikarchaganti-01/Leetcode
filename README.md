@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
