@@ -17,8 +17,8 @@ public:
         int low = *max_element(nums.begin(),nums.end());
         int high = accumulate(nums.begin(),nums.end(),0);
         int res = -1;
-        for(int i =low;i<=high;i++){
-            int mid = i;
+        while(low <= high){
+            int mid = (low+high)/2;
             if(split(nums,k,mid)){
                 res = mid;
                 high = mid -1;
