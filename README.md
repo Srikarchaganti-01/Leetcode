@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
@@ -147,4 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
