@@ -22,7 +22,6 @@ public:
             else prev = prev->next;
         }
         prev->next = slow->next;
-        delete slow;
         return head;
     }
 };
