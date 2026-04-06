@@ -11,26 +11,18 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        ListNode* temp = head;
-        queue<int>q;
         unordered_set<int> st(nums.begin(), nums.end());
-        while(temp!=nullptr){
-            if(st.count(temp->val))
-            {
+        while(head != nullptr && st.count(head->val)){
+            head = head->next;
+        }
+        ListNode* temp = head;
+        while(temp != nullptr && temp->next != nullptr){
+            if(st.count(temp->next->val)){
+                temp->next = temp->next->next;
+            } else {
                 temp = temp->next;
-                continue;
             }
-            q.push(temp->val);
-            temp = temp->next;
         }
-        temp = head;
-        while(!q.empty()){
-            temp->val = q.front();
-            q.pop();
-            if(!q.empty())temp = temp->next;
-            else temp->next = nullptr;
-        }
-        temp = nullptr;
         return head;
     }
 };
