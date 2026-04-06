@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
