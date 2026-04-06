@@ -11,19 +11,15 @@
 class Solution {
 public:
     ListNode* rev(ListNode* newhead){
-        ListNode* temp = newhead;
-        stack<int>st;
-        while(temp!=nullptr){
-            st.push(temp->val);
-            temp = temp->next;
+        ListNode* prev = nullptr;
+        ListNode* curr = newhead;
+        while(curr != nullptr){
+            ListNode* nextNode = curr->next; 
+            curr->next = prev;              
+            prev = curr;                     
+            curr = nextNode;               
         }
-        temp = newhead;
-        while(temp!=nullptr){
-            temp->val = st.top();
-            st.pop();
-            temp = temp->next;
-        }
-        return newhead;
+        return prev;
     }
     ListNode* doubleIt(ListNode* head) {
         stack<int>st;
