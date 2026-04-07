@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
