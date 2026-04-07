@@ -22,25 +22,20 @@ public:
         return prev;
     }
     ListNode* removeNodes(ListNode* head) {
+        ListNode* newnode = new ListNode(0);
         ListNode* temp = rev(head);
+        ListNode* tempi = newnode;
         int preval = INT_MIN;
-        stack<int>st;
         while(temp!=nullptr){
             int curval = temp->val;
             if(curval >= preval){
-                st.push(curval);
                 preval = curval;
-                // cout<<curval;
+                tempi->next = new ListNode(curval);
+                tempi = tempi->next;
+
             }
             temp = temp->next;  
         }
-        ListNode* newnode = new ListNode(0);
-        temp = newnode;
-        while(!st.empty()){
-            temp->next = new ListNode(st.top());
-            temp = temp->next;
-            st.pop();
-        }
-        return newnode->next;
+        return rev(newnode->next);
     }
 };
