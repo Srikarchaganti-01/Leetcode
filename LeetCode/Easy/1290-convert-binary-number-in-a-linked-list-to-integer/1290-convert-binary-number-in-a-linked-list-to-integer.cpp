@@ -21,7 +21,7 @@ public:
         int res = 0;
         while(!st.empty()){
             int num = st.top();
-            res = res + pow(2,mul)*num;
+            if(num == 1) res = res + pow(2,mul)*num;
             mul++;
             st.pop();
         }
