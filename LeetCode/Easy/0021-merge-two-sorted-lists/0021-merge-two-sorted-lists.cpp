@@ -15,15 +15,17 @@ public:
         ListNode* temp2 = list2;
         vector<int>v;
         if(list1 == nullptr && list2 == nullptr) return nullptr;
-        while(temp1 != nullptr){
-            int n = temp1->val;
-            v.push_back(n);
-            temp1 = temp1->next;
-        }
-        while(temp2 != nullptr){
-            int n = temp2->val;
-            v.push_back(n);
-            temp2 = temp2->next;
+        while(temp1 != nullptr || temp2 != nullptr){
+            if(temp1 != nullptr) {
+                int n = temp1->val;
+                v.push_back(n);
+                temp1 = temp1->next;
+            }
+            if(temp2 != nullptr){
+                int m = temp2->val;
+                v.push_back(m);
+                temp2 = temp2->next;
+            }
         }
         sort(v.rbegin(),v.rend());
         ListNode* newnode = new ListNode(0);
