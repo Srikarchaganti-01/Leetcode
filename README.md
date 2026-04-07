@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
