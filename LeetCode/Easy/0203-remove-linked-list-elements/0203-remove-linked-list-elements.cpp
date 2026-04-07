@@ -23,7 +23,6 @@ public:
             temp = temp->next;  
         }
         tempi = newnode->next;
-        delete newnode;
         return (tempi);
     }
 };
