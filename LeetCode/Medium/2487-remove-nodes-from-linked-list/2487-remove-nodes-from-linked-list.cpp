@@ -36,6 +36,8 @@ public:
             }
             temp = temp->next;  
         }
-        return rev(newnode->next);
+        tempi = newnode->next;
+        delete newnode;
+        return rev(tempi);
     }
 };
