@@ -11,33 +11,19 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        ListNode* temp = head;
-        int n = 1;
-        if(head == nullptr || head->next == nullptr) return head;
-        int right = INT_MAX;
-        int left=INT_MAX;
-        while(temp->next != nullptr){
-            temp = temp->next;
-            n++;
-        }
-        int mini = min(k,n-k+1);
-        int m = max(k,n-k+1);
-        int pos = 1;
-        temp = head;
-        while(temp!=nullptr && pos <= m){
-            if(pos == mini) right = temp->val;
-            if(pos == m) left = temp->val;
-            temp =  temp->next;
-            pos++;
-        }
-        pos = 1;
-        temp = head;
-        while(temp!=nullptr && pos<=m){
-            if(pos == mini) temp->val = left;
-            if(pos == m) temp->val = right;
-            pos++;
-            temp = temp->next;
-        }
-        return head;
+            ListNode* temp = head;
+            int n = 0;
+            while(temp != nullptr){
+                n++;
+                temp = temp->next;
+            }
+            int leftPos = k;
+            int rightPos = n - k + 1;
+            ListNode* leftNode = head;
+            ListNode* rightNode = head;
+            for(int i = 1; i < leftPos; i++) leftNode = leftNode->next;
+            for(int i = 1; i < rightPos; i++) rightNode = rightNode->next;
+            swap(leftNode->val, rightNode->val);
+            return head;
     }
 };
