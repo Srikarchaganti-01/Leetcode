@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -222,5 +224,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
