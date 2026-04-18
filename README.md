@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -231,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->
