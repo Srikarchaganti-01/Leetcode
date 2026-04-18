@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
