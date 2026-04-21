@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,5 +258,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->
