@@ -1,12 +1,10 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        unordered_map<int,int>mp;
+        set<int> st;
         for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-        }
-        for(auto it:mp){
-            if(it.second > 1) return it.first;
+            if(st.count(nums[i])) return nums[i];
+            st.insert(nums[i]);
         }
         return -1;
     }
