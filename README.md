@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->
