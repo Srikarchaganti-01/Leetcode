@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
