@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
