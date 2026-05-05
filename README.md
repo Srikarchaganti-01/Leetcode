@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0441-arranging-coins](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0788-rotated-digits](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0788-rotated-digits](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
