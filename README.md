@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
