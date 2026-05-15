@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
