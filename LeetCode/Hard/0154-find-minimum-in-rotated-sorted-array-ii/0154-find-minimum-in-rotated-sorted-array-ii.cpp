@@ -13,9 +13,14 @@ public:
         int b = v[n-1];
         if(a<b) return a;
         else if((b<a) && (n==2)) return b;
-        for(int i=1;i<n-1;i++){
-            if((v[i-1] > v[i]) && (v[i+1] > v[i]) ) return v[i];
+        int low = 0;
+        int high = v.size()-1;
+        while(low<high){
+            int mid = (low+high)/2;
+            if(v[mid] > v[high]) low = mid+1;
+            else high = mid;
+
         }
-        return b;
+        return v[low];
     }
 };
