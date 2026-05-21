@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
