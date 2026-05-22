@@ -7,9 +7,6 @@ public:
         int b = nums[n-1];
         if(a<b) return a;
         else if((b<a) && (n==2)) return b;
-        // for(int i=1;i<n-1;i++){
-        //     if((nums[i-1] > nums[i]) && (nums[i+1] > nums[i]) ) return nums[i];
-        // }
         int low = 0;
         int high = nums.size()-1;
         while(low<high){
