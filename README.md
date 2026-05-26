@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
+| [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1763-longest-nice-substring/) | Easy |
+| [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
