@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3827-count-monobit-integers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Simulation
