@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-find-subarrays-with-equal-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1871-jump-game-vii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
