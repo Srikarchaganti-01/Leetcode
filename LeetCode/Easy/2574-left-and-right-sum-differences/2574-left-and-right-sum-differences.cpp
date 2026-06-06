@@ -2,19 +2,16 @@ class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n = nums.size();
-        vector<int>lsum(n);
-        vector<int>rsum(n);
         vector<int>ans(n);
-        lsum[0] = 0;
-        rsum[n-1] = 0;
-        for (int i = 1; i < n; i++) {
-            lsum[i] = lsum[i - 1] + nums[i - 1];
-        }
-        for (int i = n - 2; i >= 0; i--) {
-            rsum[i] = rsum[i + 1] + nums[i + 1];
-        }
+        int totsum = 0;
         for(int i=0;i<n;i++){
-            ans[i] = abs(lsum[i] - rsum[i]);
+            totsum = totsum + nums[i];
+        }
+        int lsum = 0;
+        for(int i=0;i<n;i++){
+            int rsum = totsum - lsum - nums[i];
+            ans[i] = abs(lsum-rsum);
+            lsum+=nums[i];
         }
         return ans;
     }
