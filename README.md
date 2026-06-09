@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
