@@ -13,17 +13,15 @@ public:
 
     int pairSum(ListNode* head) {
         vector<int>v;
-        stack<int>st;
         ListNode* temp = head;
         while(temp){
             v.push_back(temp->val);
-            st.push(temp->val);
             temp = temp->next;
         }
         int ans = INT_MIN;
-        for(int i=0;i<v.size();i++){
-            int tot = v[i] + st.top();
-            st.pop();
+        int n = v.size();
+        for(int i=0;i<n;i++){
+            int tot = v[i] + v[n-i-1];
             ans = max(ans,tot);
         }
         return ans;
