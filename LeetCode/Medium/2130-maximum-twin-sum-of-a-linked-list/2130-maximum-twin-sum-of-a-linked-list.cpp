@@ -10,25 +10,21 @@
  */
 class Solution {
 public:
+
     int pairSum(ListNode* head) {
-        ListNode *slow = head, *fast = head;
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }ListNode *prev = nullptr, *curr = slow;
-        while (curr) {
-            ListNode *nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
+        vector<int>v;
+        stack<int>st;
+        ListNode* temp = head;
+        while(temp){
+            v.push_back(temp->val);
+            st.push(temp->val);
+            temp = temp->next;
         }
-        int ans = 0;
-        ListNode *first = head;
-        ListNode *second = prev;
-        while (second) {
-            ans = max(ans, first->val + second->val);
-            first = first->next;
-            second = second->next;
+        int ans = INT_MIN;
+        for(int i=0;i<v.size();i++){
+            int tot = v[i] + st.top();
+            st.pop();
+            ans = max(ans,tot);
         }
         return ans;
     }
