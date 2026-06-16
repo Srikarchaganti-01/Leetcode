@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
