@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/0728-self-dividing-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
