@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Srikarchaganti-01/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Srikarchaganti-01/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -342,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Srikarchaganti-01/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
